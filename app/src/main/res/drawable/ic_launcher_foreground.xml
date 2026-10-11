@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Open book back / shadow -->
+        <path
+            android:fillColor="#E07A5F"
+            android:pathData="M31,34c-6,0 -10,3 -10,8v33c0,0.8 0.7,1.5 1.5,1.5c3.5,0 8.5,1.8 11.5,3.5c6,3.4 12,3.4 20,0c8,3.4 14,3.4 20,0c3,-1.7 8,-3.5 11.5,-3.5c0.8,0 1.5,-0.7 1.5,-1.5V42c0,-5 -4,-8 -10,-8c-7.5,0 -15,4 -23,7.5C46,38 38.5,34 31,34z" />
+        <!-- Open pages left -->
+        <path
+            android:fillColor="#F4F1DE"
+            android:pathData="M26,43c0,-3.3 2.7,-6 6,-6c6.2,0 13.5,3.5 20,6.5v30c-6.5,-3 -13.8,-6.5 -20,-6.5c-3.3,0 -6,2.7 -6,6V43z" />
+        <!-- Open pages right -->
+        <path
+            android:fillColor="#FFFDF7"
+            android:pathData="M82,43c0,-3.3 -2.7,-6 -6,-6c-6.2,0 -13.5,3.5 -20,6.5v30c6.5,-3 13.8,-6.5 20,-6.5c3.3,0 6,2.7 6,6V43z" />
+        <!-- Comic panels on left page -->
+        <path
+            android:fillColor="#3D405B"
+            android:pathData="M30,47h8v9h-8z M41,47h7v9h-7z M30,59h18v7h-18z" />
+        <!-- Text lines on right page -->
+        <path
+            android:fillColor="#E07A5F"
+            android:pathData="M59,48h18v2h-18z M59,53h18v2h-18z M59,58h14v2h-14z M59,63h10v2h-10z" />
+        <!-- Bookmark ribbon -->
+        <path
+            android:fillColor="#F2CC8F"
+            android:pathData="M52,38h4v15l-2,-2l-2,2z" />
+    </group>
+</vector>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Folhear</string>
+    <string name="library">Biblioteca</string>
+    <string name="goals">Metas</string>
+    <string name="folders">Pastas</string>
+    <string name="search_hint">Buscar títulos ou autores…</string>
+    <string name="import_books">Importar Arquivos</string>
+    <string name="continue_reading">Continuar Lendo</string>
+    <string name="all_books">Todos os Livros</string>
+</resources>

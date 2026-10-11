@@ -1,0 +1,6 @@
+{
+  "name": "Folhear",
+  "description": "Leitor moderno de livros e quadrinhos para Android com suporte a PDF, EPUB e CBZ/CBR, pastas personalizadas, metas de leitura e modo noturno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
